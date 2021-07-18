@@ -6,8 +6,8 @@ I love music, technology, games, and I love to combine everything, when possible
 I want to learn new things
 
 ## What I do
-* Indie/Hobbyist Software Developer
-* Programmer for an awesome survey site ([Rewards1](https://www.rewards1.com))
+* Indie/Hobbyist Software Dev
+* Dev for an awesome survey site ([Rewards1](https://www.rewards1.com))
 * Wannabe musician
 * Part-time gamer
 * Factory worker
@@ -25,6 +25,15 @@ I want to learn new things
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-777bb4?style=flat-square&logo=php&logoColor=white"/>
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 </p>
+
+## GitHub Stats
+ <img src="https://github-readme-stats.vercel.app/api?username=thekingeagle&show_icons=true&theme=dark" alt="kingeagle" width="45%" align="right"/>
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=thekingeagle&theme=dark" width="48%" />
+
+## Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheKingEagle&layout=compact&theme=dark)
+  
 
 ## Wanna chat?
 <p>
