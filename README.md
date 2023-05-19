@@ -1,16 +1,14 @@
 ## Greetings
 Welcome to my corner of this digital domain!
 
-I love music, technology, games, and I love to combine everything, when possible.
+I love music, technology, games.
 
 I want to learn new things
 
 ## What I do
 * Indie/Hobbyist Software Dev
 * Dev for an awesome survey site ([Rewards1](https://www.rewards1.com))
-* Wannabe musician
-* Part-time gamer
-* Factory worker
+* Composer
 
 ## My Stack
 <p>
@@ -35,12 +33,6 @@ I want to learn new things
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheKingEagle&layout=compact&theme=dark)
   
 
-## Wanna chat?
-<p>
-  <a href="https://discord.com/invite/N9dRpdfecX">
-    <img alt="Discord" title="The Arcade" src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
-</p>
 <!--
 **TheKingEagle/TheKingEagle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
