@@ -26,7 +26,7 @@ I want to learn new things
 
 ## GitHub Stats
  <img src="https://github-readme-stats.vercel.app/api?username=thekingeagle&show_icons=true&theme=dark" alt="kingeagle" width="48%" align="right"/>
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=thekingeagle&theme=dark" width="48%" alt="Why is this broken?"/>
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=thekingeagle&theme=light" width="48%" alt="Why is this broken?"/>
 
 ## Top Languages
 
