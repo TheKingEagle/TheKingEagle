@@ -7,7 +7,6 @@ I want to learn new things
 
 ## What I do
 * Indie/Hobbyist Software Dev
-* Dev for an awesome survey site ([Rewards1](https://www.rewards1.com))
 * Composer
 
 ## My Stack
