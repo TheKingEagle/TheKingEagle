@@ -23,13 +23,6 @@ I want to learn new things
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 </p>
 
-## GitHub Stats
- <img src="https://github-readme-stats.vercel.app/api?username=thekingeagle&show_icons=true&theme=dark" alt="kingeagle" width="48%" align="right"/>
- <img  src="https://workflow.rms0.org/api/stats.php" width="48%" alt="Why is this broken.?"/>
-
-## Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheKingEagle&layout=compact&theme=dark)
   
 
 <!--
